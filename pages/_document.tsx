@@ -12,6 +12,7 @@ class MyDocument extends Document {
     return (
       <Html lang="he" dir="RTL">
         <Head />
+        <script async defer data-website-id="d6365cf1-70bb-4307-aea8-acaf6bb94787" src="https://pls.forward2shraga.com/umami.js"></script>
         <body
           className={cx(
             "bg-gray-50 text-gray-800",
