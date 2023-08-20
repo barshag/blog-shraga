@@ -9,12 +9,7 @@ tags: ['AI-TOWN', 'Artificial Intelligence', 'Robots', 'Technology', 'AI-Future'
 
 **AI Town** היא עיר ווירטואלית בה דמויות מתוקנתות חיות, משוחחות ומתחברות אחת לשנייה. המטרה של הפרויקט הזה היא לספק כלי שיאפשר לכל מתכנת לבנות ולהתאים אישית את הגרסה שלו מהעיר הווירטואלית. הפרויקט הושרא מהמחקר "Generative Agents: Interactive Simulacra of Human Behavior".
 
-## סקירה כללית
-- 💻 הטכנולוגיות שאנו משתמשים בהן
-- 🧠 איך להתקין
-- 👤 איך להתאים אישית את הפרויקט לפי הצרכים שלך
-- 🏆 קרדיטים
-
+להלן הטכנולוגיות שבשימוש הפרוייקט-
 ## 💻 הטכנולוגיות:
 | טכנולוגיה | שימוש |
 |------------|--------|
@@ -27,13 +22,13 @@ tags: ['AI-TOWN', 'Artificial Intelligence', 'Robots', 'Technology', 'AI-Future'
 | Replicate using MusicGen | Background Music Generation |
 
 ## 🧠 התקנה:
-להתחיל, העתק את הקוד הבא:
-'''bash
+ההתקנה היא פשוטה - פשוט העתק את הקוד הבא:
+```bash
 git clone https://github.com/a16z-infra/ai-town.git
 cd ai-town
 npm install
 npm run dev
-'''
+```
 
 
 
