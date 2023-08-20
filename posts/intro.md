@@ -2,6 +2,7 @@
 title: "כשהמכונות מתחילות לחשוב: הסיפור שמאחורי ה-'AI-Agent'"
 date: "2023-08-16"
 tags: ['Agents', 'Artificial Intelligence', 'Robots', 'Technology', 'Methodology', 'Innovation', 'Coming', 'Machines', 'Machine Learning', 'Technological Revolution']
+image: "avatar.png"
 ---
 # מבוא לסוכני האינטליגנציה המלאכותית (AI)
 

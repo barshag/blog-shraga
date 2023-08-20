@@ -29,7 +29,7 @@ const Home: NextPage<HomeProps> = ({ posts }) => {
             href="/posts"
             className="group inline-flex items-center gap-2 text-pink-600"
           >
-           צפייה בעוד הודעות{" "}
+           צפייה בעוד פוסטים{" "}
             <ArrowRight
               className="group-hover:translate-x-0.5 transition-transform"
               width={".9em"}

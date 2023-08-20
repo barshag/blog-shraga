@@ -1,8 +1,8 @@
 ---
-title: "AI Town: כיצד ליצור עיר ווירטואלית מלאה בדמויות וסוכני בינה מלאכותית באמצעות תוכנות"
+title: "AI Town: כיצד ליצור עיר ווירטואלית מלאה בדמויות וסוכני בינה מלאכותית "
 date: "2023-08-20"
 tags: ['AI-TOWN', 'Artificial Intelligence', 'Robots', 'Technology', 'AI-Future', 'Multi-agents', 'AI-Gaming', 'Technological Revolution']
-
+image: "town.jpeg"
 ---
 
 # AI Town 🏠💻💌
